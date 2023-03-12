@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @65r
-- 👀 I’m interested in php developers that make a team and help each other 
-- 🌱 I’m currently learning php (laravel)
+- 👀 I’m interested in php development and I want to create a developer team to help each others 
+- 🌱 I’m learning php (laravel) now.
 - 💞️ I’m looking to collaborate on design and development of websites
 - 📫 How to reach me nemat222.h@gmail.com
 
